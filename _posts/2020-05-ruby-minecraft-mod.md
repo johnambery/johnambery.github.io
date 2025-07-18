@@ -1,5 +1,5 @@
 ---
-date: May 2020
+date: 2020-05-05 12:26:40
 layout: post
 title: Ruby Minecraft Mod
 subtitle: A simple modification for Minecraft that adds ruby ore, tools, and armor
