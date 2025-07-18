@@ -1,16 +1,17 @@
 ---
-date: 2018-11-22 12:26:40
+date: May 2020
 layout: post
-title: Why books should be your priority?
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
+title: Ruby Minecraft Mod
+subtitle: A simple modification for Minecraft that adds ruby ore, tools, and armor
+description: This was a final project for AP CSA during junior year of high school.
+image: https://i.redd.it/vomtjz8osvb61.png
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
 category: life
 tags:
-  - books
-  - read
-author: mranderson
+  - java
+  - video game
+  - minecraft
+author: johnambery
 paginate: true
 ---
 
